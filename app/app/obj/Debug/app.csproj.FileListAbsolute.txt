@@ -1,0 +1,6 @@
+C:\Users\IIBariev\project\app\app\bin\Debug\app.exe.config
+C:\Users\IIBariev\project\app\app\bin\Debug\app.exe
+C:\Users\IIBariev\project\app\app\bin\Debug\app.pdb
+C:\Users\IIBariev\project\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\IIBariev\project\app\app\obj\Debug\app.exe
+C:\Users\IIBariev\project\app\app\obj\Debug\app.pdb
